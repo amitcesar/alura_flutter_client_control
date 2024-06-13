@@ -1,19 +1,5 @@
 ![Thumbnail GitHub](./thumb.png)
 
-# Flutter: Gerenciamento de estados complexos
-
-Esse curso de Flutter vai te ensinar a:
-
--> O que é estado e gerenciadores de estados
-
--> Como instalar e utilizar o Provider como gerenciador de estados
-
--> Formular estados seguindo o conceito de single source of truth
-
--> Como organizar models que utilizam os conceitos do `change notifier`
-
--> Criar Widgets focados em estado e passagem de dados
-
 ## 🔨 Projeto: Client Control
 
 O projeto do curso consiste em um gerenciamento de clientes de maneira que podemos cadastrar clientes, tipos de clientes e vincular os tipos cadastrados com os clientes utilizando abordagens de gerenciamento de estados.
